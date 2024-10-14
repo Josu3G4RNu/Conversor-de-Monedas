@@ -1,6 +1,8 @@
 ---
 
 # Conversor-de-Monedas 
+![Static Badge](https://img.shields.io/badge/License-MIT-purple)
+![Static Badge](https://img.shields.io/badge/Status-Finish-blue)
 
 ## Descripción ✒️
 Conversor-de-Monedas es una aplicación basada en Java que utiliza la API de ExchangeRate para convertir cantidades ingresadas por el usuario a través del teclado de una moneda a otra.
@@ -22,7 +24,7 @@ Conversor-de-Monedas es una aplicación basada en Java que utiliza la API de Exc
 4. La aplicacón imprimirá el monto en la divisa que hayas seleccionado.
 
 ## Licencia 📖
-Este proyecto está licenciado bajo la Licencia MTG.
+Este proyecto está licenciado bajo la Licencia MIT.
 
 ## Contribuciones 👨‍💼
 ¡Las contribuciones son bienvenidas! Por favor, haga un fork del repositorio y cree una pull request con sus cambios.
