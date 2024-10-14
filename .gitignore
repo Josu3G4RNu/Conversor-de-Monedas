@@ -26,6 +26,6 @@ bin/
 .vscode/
 .idea/
 
-
+.txt
 ### Mac OS ###
 .DS_Store
